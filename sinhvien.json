@@ -1,0 +1,13 @@
+{
+  "sinhvien": [
+    {
+      "MSSV": "2018001234",
+      "HoTen": "Nguyen Van A",
+      "DiaChi": "123 Nguyen Trai, Quan 1, TP.HCM",
+      "Lop": "CNTT01",
+      "NgaySinh": "6/10/2004",
+      "SoDT": "0901234567",
+      "MonHoc":  "Toan, Tieng Viet, Anh Van"
+    }
+  ]
+}
